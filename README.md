@@ -14,7 +14,7 @@ A simple and interactive To-Do List application built using **React**. This app 
 ## Demo
 
 ### Home Page
-![Home Page Screenshot](https://via.placeholder.com/800x400?text=Add+a+screenshot+here)
+![Home Page Screenshot](https://github.com/yassine710E/to-do-list-React/raw/master/src/assets/app.PNG)
 
 ## Getting Started
 
