@@ -29,4 +29,4 @@ Follow these instructions to run the project on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-react.git
+   git clone https://github.com/yassine710E/todo-list-react.git
